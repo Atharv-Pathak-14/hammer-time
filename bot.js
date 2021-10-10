@@ -1,4 +1,4 @@
-const botToken = ''; //--REQUIRED--
+const botToken = '.env.process.TOKEN'; //--REQUIRED--
 const ownerID = ''; //--REQUIRED--
 
 const basedirext = '/files/', //default: '/files/'
