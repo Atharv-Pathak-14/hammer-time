@@ -1,5 +1,5 @@
 const botToken = '.env.process.TOKEN'; //--REQUIRED--
-const ownerID = ''; //--REQUIRED--
+const ownerID = '787885151383322644'; //--REQUIRED--
 
 const basedirext = '/files/', //default: '/files/'
       basedirsplit = basedirext.split('/').filter(c => c.length),
